@@ -17,8 +17,8 @@ MinVal  : A numeric value for the min value for the linewidth and colorbar.
 MaxVal  : A numeric value for the max value for the linewidth and colorbar.  
 TextSize: A numeric value for the min value for the text size of the labels.  
 MaxLineThickness  : A numeric value for the max thickness the lines.  
-ShowColorbar: Boolean value that indicates whether to show the colorbar.
-CurvedLines: Boolean value that indicates whether to plot a curve or a line.
+ShowColorbar: Boolean value that indicates whether to show the colorbar.  
+CurvedLines: Boolean value that indicates whether to plot a curve or a line.  
 
 
 Author: Jan-Luca Schröder (2023)
